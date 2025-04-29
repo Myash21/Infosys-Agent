@@ -1,2 +1,4 @@
 tavily-python
 openpyxl
+phi-tools
+python-dotenv
