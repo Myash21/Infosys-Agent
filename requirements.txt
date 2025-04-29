@@ -1,4 +1,7 @@
+phi
 tavily-python
 openpyxl
 phi-tools
 python-dotenv
+groq
+phidata
